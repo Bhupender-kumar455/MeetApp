@@ -5,4 +5,21 @@
     <string name="on_going_all_out">ON GOING ALL OUT</string>
     <string name="find_a_team_in_your_city_and_dominate_league">FIND A TEAM IN YOUR CITY AND DOMINATE LEAGUE</string>
     <string name="go_next">Go Next!</string>
+    <string name="secondBackground">background</string>
+    <string name="men">MEN</string>
+    <string name="women">WOMEN</string>
+    <string name="other">OTHER</string>
+    <string name="desired_league">DESIRED LEAGUE</string>
+    <string name="go_next_page">GO NEXT</string>
+    <string name="logo">logo</string>
+    <string name="thirdPageBackground">BACKGROUND</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="pro">PRO</string>
+    <string name="i_am_a">I am a :</string>
+    <string name="swoosh_logo">SWOOSH-LOGO</string>
+    <string name="menButton">MEN</string>
+    <string name="womenbutton">WOMEN</string>
+    <string name="otherbutton">OTHER</string>
+    <string name="desired_leaguetext">DESIRED LEAGUE</string>
+    <string name="go_nextbutton">GO NEXT</string>
 </resources>
